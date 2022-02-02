@@ -12,5 +12,8 @@
     "tabs",
     "alarms"
   ],
-  "action": {}
+  "action": {},
+  "icons": {
+    "38": "images/default-38.png"
+  }
 }
