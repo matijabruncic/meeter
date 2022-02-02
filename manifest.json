@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+
+  "name": "Meeter",
+  "version": "0.1.0",
+  "description": "This extension will track how much time you spend on Google Meet",
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": [
+    "tabs",
+    "alarms"
+  ],
+  "action": {}
+}
