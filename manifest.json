@@ -10,7 +10,8 @@
   },
   "permissions": [
     "tabs",
-    "alarms"
+    "alarms",
+    "storage"
   ],
   "action": {},
   "icons": {
